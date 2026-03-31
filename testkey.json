@@ -63,5 +63,10 @@
     "userKey": "Panditahu1",
     "phoneNumber": "6282339185353",
     "password": "11223344"
+  },
+  {
+    "userKey": "",
+    "phoneNumber": "",
+    "password": ""
   }
 ]
