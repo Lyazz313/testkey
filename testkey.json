@@ -88,5 +88,10 @@
     "userKey": "jembot",
     "phoneNumber": "306996144033",
     "password": "kemem123"
+  },
+  {
+    "userKey": "",
+    "phoneNumber": "",
+    "password": ""
   }
 ]
