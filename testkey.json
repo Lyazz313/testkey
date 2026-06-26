@@ -1,158 +1,152 @@
 [
-  {
-    "userKey": "diw",
-    "phoneNumber": 6289672269033,
-    "password": "dearlywinn"
-  },
-  {
-    "userKey": "Cut4nn",
-    "phoneNumber": 6285199714577,
-    "password": "Cut4nnnidek"
-  },
-  {
-    "userKey": "vito",
-    "phoneNumber": 6285133416957,
-    "password": "password"
-  },
-  {
-    "userKey": "ryuzen",
-    "phoneNumber": 6285126920326,
-    "password": "mykisah"
-  },
-  {
-    "userKey": "kay21",
-    "phoneNumber": 62895370152637,
-    "password": "oriza imupp"
-  },
-  {
-    "userKey": "Sakata",
-    "phoneNumber": 6289508070064,
-    "password": "Sakata"
-  },
-  {
-    "userKey": "wee",
-    "phoneNumber": 2250767144748,
-    "password": "wee"
-  },
-  {
-    "userKey": "melia28",
-    "phoneNumber": 6285178944802,
-    "password": "melia28"
-  },
-  {
-    "userKey": "tama",
-    "phoneNumber": 6285194513237,
-    "password": "abcdxyhij"
-  },
-  {
-    "userKey": "hanfzz",
-    "phoneNumber": 6285119799408,
-    "password": "hanfzzmalas"
-  },
-  {
-    "userKey": "Someonestore",
-    "phoneNumber": 992927709102,
-    "password": "Someonestorereal"
-  },
-  {
-    "userKey": "N",
-    "phoneNumber": 6281228372306,
-    "password": "N"
-  },
-  {
-    "userKey": "sakata",
-    "phoneNumber": 6289508070064,
-    "password": "sakata"
-  },
-  {
-    "userKey": "anggimirandi",
-    "phoneNumber": 6285607601446,
-    "password": "Sigma11*&-"
-  },
-  {
-    "userKey": "damn!",
-    "phoneNumber": 6285142223769,
-    "password": "allkece"
-  },
-  {
-    "userKey": "kay",
-    "phoneNumber": "6285814507338",
-    "password": "kay"
-  },
-  {
-    "userKey": "Kay",
-    "phoneNumber": "6285124194339",
-    "password": "Kay"
-  },
-  {
-    "userKey": "jembot",
-    "phoneNumber": "306996144033",
-    "password": "kemem123"
-  },
-  {
-    "userKey": "",
-    "phoneNumber": "",
-    "password": ""
-  },
-  {
-    "userKey": "Cut4nnCeo",
-    "phoneNumber": "6287761013232",
-    "password": "Cut4nnAjaa"
-  },
-  {
-    "userKey": "1",
-    "phoneNumber": "1",
-    "password": "1"
-  },
-  {
-    "userKey": "1",
-    "phoneNumber": "6281228372306",
-    "password": "1"
-  },
-  {
-    "userKey": "sakata",
-    "phoneNumber": "6289508070064",
-    "password": "sakata"
-  },
-  {
-    "userKey": "sarx",
-    "phoneNumber": "6289673595002",
-    "password": "123"
-  },
-  {
-    "userKey": "Vanzz | ML4",
-    "phoneNumber": "628895663993",
-    "password": "vanxzy16"
-  },
-  {
-    "userKey": "chelyncantikbieber",
-    "phoneNumber": "628976732922",
-    "password": "chelyncantikbieber"
-  },
-  {
-    "userKey": "Bot_febbz",
-    "phoneNumber": "6281990921040",
-    "password": "febbz0911"
-  },
-  {
-    "userKey": "Arip",
-    "phoneNumber": "6285691615653",
-    "password": "qwerty"
-  },
-  {
-      "userKey": "kontl",
-    "phoneNumber": "6285798116918",
-    "password": "wahyu"
-  },
-  {
-    "userKey": "nazwan",
-    "phoneNumber": "6283199457386",
-    "password": "nazwan123"
-  },
-  {
-    "userKey": "PrimaOrtiz",
-    "phoneNumber": "6285640854349",
-    "password": "comzz20"
-  }
-  
+    {
+        "userKey": "diw",
+        "phoneNumber": 6289672269033,
+        "password": "dearlywinn"
+    },
+    {
+        "userKey": "Cut4nn",
+        "phoneNumber": 6285199714577,
+        "password": "Cut4nnnidek"
+    },
+    {
+        "userKey": "vito",
+        "phoneNumber": 6285133416957,
+        "password": "password"
+    },
+    {
+        "userKey": "ryuzen",
+        "phoneNumber": 6285126920326,
+        "password": "mykisah"
+    },
+    {
+        "userKey": "kay21",
+        "phoneNumber": 62895370152637,
+        "password": "oriza imupp"
+    },
+    {
+        "userKey": "Sakata",
+        "phoneNumber": 6289508070064,
+        "password": "Sakata"
+    },
+    {
+        "userKey": "wee",
+        "phoneNumber": 2250767144748,
+        "password": "wee"
+    },
+    {
+        "userKey": "melia28",
+        "phoneNumber": 6285178944802,
+        "password": "melia28"
+    },
+    {
+        "userKey": "tama",
+        "phoneNumber": 6285194513237,
+        "password": "abcdxyhij"
+    },
+    {
+        "userKey": "hanfzz",
+        "phoneNumber": 6285119799408,
+        "password": "hanfzzmalas"
+    },
+    {
+        "userKey": "Someonestore",
+        "phoneNumber": 992927709102,
+        "password": "Someonestorereal"
+    },
+    {
+        "userKey": "N",
+        "phoneNumber": 6281228372306,
+        "password": "N"
+    },
+    {
+        "userKey": "sakata",
+        "phoneNumber": 6289508070064,
+        "password": "sakata"
+    },
+    {
+        "userKey": "anggimirandi",
+        "phoneNumber": 6285607601446,
+        "password": "Sigma11*&-"
+    },
+    {
+        "userKey": "damn!",
+        "phoneNumber": 6285142223769,
+        "password": "allkece"
+    },
+    {
+        "userKey": "kay",
+        "phoneNumber": "6285814507338",
+        "password": "kay"
+    },
+    {
+        "userKey": "Kay",
+        "phoneNumber": "6285124194339",
+        "password": "Kay"
+    },
+    {
+        "userKey": "jembot",
+        "phoneNumber": "306996144033",
+        "password": "kemem123"
+    },
+    {
+        "userKey": "Cut4nnCeo",
+        "phoneNumber": "6287761013232",
+        "password": "Cut4nnAjaa"
+    },
+    {
+        "userKey": "1",
+        "phoneNumber": "1",
+        "password": "1"
+    },
+    {
+        "userKey": "1",
+        "phoneNumber": "6281228372306",
+        "password": "1"
+    },
+    {
+        "userKey": "sakata",
+        "phoneNumber": "6289508070064",
+        "password": "sakata"
+    },
+    {
+        "userKey": "sarx",
+        "phoneNumber": "6289673595002",
+        "password": "123"
+    },
+    {
+        "userKey": "Vanzz | ML4",
+        "phoneNumber": "628895663993",
+        "password": "vanxzy16"
+    },
+    {
+        "userKey": "chelyncantikbieber",
+        "phoneNumber": "628976732922",
+        "password": "chelyncantikbieber"
+    },
+    {
+        "userKey": "Bot_febbz",
+        "phoneNumber": "6281990921040",
+        "password": "febbz0911"
+    },
+    {
+        "userKey": "Arip",
+        "phoneNumber": "6285691615653",
+        "password": "qwerty"
+    },
+    {
+        "userKey": "kontl",
+        "phoneNumber": "6285798116918",
+        "password": "wahyu"
+    },
+    {
+        "userKey": "nazwan",
+        "phoneNumber": "6283199457386",
+        "password": "nazwan123"
+    },
+    {
+        "userKey": "PrimaOrtiz",
+        "phoneNumber": "6285640854349",
+        "password": "comzz20"
+    }
 ]
