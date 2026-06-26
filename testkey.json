@@ -145,9 +145,14 @@
     "password": "wahyu"
   },
   {
-      "userKey": "nazwan",
+    "userKey": "nazwan",
     "phoneNumber": "6283199457386",
     "password": "nazwan123"
+  },
+  {
+    "userKey": "PrimaOrtiz",
+    "phoneNumber": "6285640854349",
+    "password": "comzz20"
   }
   
 ]
