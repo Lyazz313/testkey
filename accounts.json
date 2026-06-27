@@ -4,5 +4,11 @@
         "password": "XZ-9Da82LpQ",
         "role": "admin",
         "createdAt": "2026-06-26T15:00:00.000Z"
+    },
+    {
+        "username": "Sakata",
+        "password": "XZ-HHOt8mcw9",
+        "role": "admin",
+        "createdAt": "2026-06-27T05:55:20.401Z"
     }
 ]
